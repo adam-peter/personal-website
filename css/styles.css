@@ -1,14 +1,16 @@
 body{
   background-color: #827397;
   color: #3D2C8D;
+  font-family: "Times New Roman", sans-serif;
 }
 h1, h2, h3{
-  color: #610094
+  color: #610094;
+  font-family: "Arial Black", sans-serif;
 }
 hr{
   border-style: none;
   border-top: 10px dotted #E9D5DA;
-  width: 5%;
+  width: 40px;
 
   margin: 60px auto 60px auto;
 }
